@@ -6,7 +6,15 @@ namespace Sorting_Algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] unsortedIntArray = RandomArray.genIntList(10, 99).ToArray();
+            Console.Write($"Unsorted, random array: ");
+            SortingAlgorithms.printArray(unsortedIntArray);
+
+            Console.WriteLine("Beginning bubble sort...");
+            SortingAlgorithms.visualBubbleSort(unsortedIntArray);
+
+
+            Console.ReadKey();
         }
     }
 }

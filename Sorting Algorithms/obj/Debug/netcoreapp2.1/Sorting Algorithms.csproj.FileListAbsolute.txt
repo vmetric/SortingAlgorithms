@@ -1,0 +1,11 @@
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\bin\Debug\netcoreapp2.1\Sorting Algorithms.deps.json
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\bin\Debug\netcoreapp2.1\Sorting Algorithms.runtimeconfig.json
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\bin\Debug\netcoreapp2.1\Sorting Algorithms.runtimeconfig.dev.json
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\bin\Debug\netcoreapp2.1\Sorting Algorithms.dll
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\bin\Debug\netcoreapp2.1\Sorting Algorithms.pdb
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\obj\Debug\netcoreapp2.1\Sorting Algorithms.csprojAssemblyReference.cache
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\obj\Debug\netcoreapp2.1\Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\obj\Debug\netcoreapp2.1\Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\obj\Debug\netcoreapp2.1\Sorting Algorithms.AssemblyInfo.cs
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\obj\Debug\netcoreapp2.1\Sorting Algorithms.dll
+C:\Users\Matt\Documents\GitHub\SortingAlgorithms\Sorting Algorithms\obj\Debug\netcoreapp2.1\Sorting Algorithms.pdb

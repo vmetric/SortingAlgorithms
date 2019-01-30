@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Bubble_Sort
+namespace Sorting_Algorithms
 {
     class RandomArray
     {

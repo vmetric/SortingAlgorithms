@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Bubble_Sort
+namespace Sorting_Algorithms
 {
     class SortingAlgorithms
     {
@@ -19,11 +19,14 @@ namespace Bubble_Sort
         // Visually sorts an array of integers using the Bubble Sort algorithm
         public static void visualBubbleSort(int[] arrayToSort)
         {
+            Console.Write("Starting array: ");
             printArray(arrayToSort);
             for (int i = 0; i + 1 < arrayToSort.Length; i++)
             {
                 if (arrayToSort[i] > arrayToSort[i + 1])
                 {
+                    Console.Write($"Swapped {arrayToSort[i]} and {arrayToSort[i + 1]}: ");
+
                     int temp = arrayToSort[i + 1];
                     arrayToSort[i + 1] = arrayToSort[i];
                     arrayToSort[i] = temp;
@@ -31,6 +34,7 @@ namespace Bubble_Sort
                     printArray(arrayToSort);
                 }
             }
+            Console.Write("Sorted array: ");
             printArray(arrayToSort);
 
         }

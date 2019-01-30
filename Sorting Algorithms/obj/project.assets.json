@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\Documents\\Github\\Sorting Algorithms\\Sorting Algorithms\\Sorting Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\Documents\\GitHub\\SortingAlgorithms\\Sorting Algorithms\\Sorting Algorithms.csproj",
       "projectName": "Sorting Algorithms",
-      "projectPath": "C:\\Users\\Matt\\Documents\\Github\\Sorting Algorithms\\Sorting Algorithms\\Sorting Algorithms.csproj",
+      "projectPath": "C:\\Users\\Matt\\Documents\\GitHub\\SortingAlgorithms\\Sorting Algorithms\\Sorting Algorithms.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\Documents\\Github\\Sorting Algorithms\\Sorting Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\Matt\\Documents\\GitHub\\SortingAlgorithms\\Sorting Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
