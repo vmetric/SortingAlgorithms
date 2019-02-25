@@ -9,10 +9,12 @@ namespace Sorting_Algorithms
             int[] unsortedIntArray = RandomArray.genIntList(10, 99).ToArray();
             Console.Write($"Unsorted, random array: ");
             SortingAlgorithms.printArray(unsortedIntArray);
+            Console.WriteLine("Press a key to sort using Insertion sorting algorithm");
+            Console.ReadKey();
+            //Console.WriteLine("Beginning bubble sort...");
+            //SortingAlgorithms.visualBubbleSort(unsortedIntArray);
 
-            Console.WriteLine("Beginning bubble sort...");
-            SortingAlgorithms.visualBubbleSort(unsortedIntArray);
-
+            SortingAlgorithms.visualInsertionSort(unsortedIntArray);
 
             Console.ReadKey();
         }
